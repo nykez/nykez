@@ -6,3 +6,4 @@ Creator of GmodListing -> https://www.gmodlisting.com/
 
 [![wakatime](https://wakatime.com/badge/user/c030108c-dac7-4cc4-ab67-90d5800e8c28.svg)](https://wakatime.com/@c030108c-dac7-4cc4-ab67-90d5800e8c28)
 
+[![wakatimechart](https://github-readme-stats.vercel.app/api/wakatime?username=Nykez&layout=compact&custom_title=My%20Week&hide_border=true&theme=dark)]()
